@@ -191,8 +191,11 @@ Communication
 - YouTube: https://www.youtube.com/channel/UCJosFjYm0ZYVUARxuOZqnnw/playlists
 - Facebook: https://www.facebook.com/scikitlearnofficial/
 - Instagram: https://www.instagram.com/scikitlearnofficial/
+- Basic Tutorial: https://media.oregonstate.edu/media/t/1_bc80ysra
 
 Citation
 ~~~~~~~~
 
 If you use scikit-learn in a scientific publication, we would appreciate citations: https://scikit-learn.org/stable/about.html#citing-scikit-learn
+
+
